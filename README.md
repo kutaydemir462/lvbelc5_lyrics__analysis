@@ -16,8 +16,8 @@ This project analyzes the lyrics of 40+ songs by **Lvbel C5**, a well-known Turk
 
 ## Visualizations
 
-- 📈 *Romantic Mentions Over Time* – A line chart showing how often Lvbel C5 uses romantic words in his songs by release year.
-- ☁️ *Word Cloud* – A visual summary of the most frequent words in his lyrics (after cleaning), emphasizing style and repetition.
+- *Romantic Mentions Over Time* – A line chart showing how often Lvbel C5 uses romantic words in his songs by release year.
+- *Word Cloud* – A visual summary of the most frequent words in his lyrics (after cleaning), emphasizing style and repetition.
 
 ---
 
