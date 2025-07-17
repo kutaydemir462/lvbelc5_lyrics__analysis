@@ -1,6 +1,6 @@
 # Lvbel C5 Lyrics Theme Analysis
 
-This project analyzes the lyrics of 40+ songs by **Lvbel C5**, a well-known Turkish rapper. Using Python and text analysis techniques, we explore the most common themes, frequently used words, and how his lyrical focus has shifted over the years — especially toward romance.
+  This project analyzes the lyrics of 40+ songs by **Lvbel C5**, a well-known Turkish rapper. Using Python and text analysis techniques, I explore the most common themes, frequently used words, and how his lyrical focus has shifted over the years — especially toward romance.
 
 ---
 
