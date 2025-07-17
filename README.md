@@ -18,7 +18,7 @@
 
 - *Romantic Mentions Over Time* – A line chart showing how often Lvbel C5 uses romantic words in his songs by release year.
 - *Word Cloud* – A visual summary of the most frequent words in his lyrics (after cleaning), emphasizing style and repetition.
-[Most Common Words in Lvbel C5 Lyrics](visuals/most_common_words (3).png)
+![Most Common Words in Lvbel C5 Lyrics](visuals/most_common_words (3).png)
 
 ---
 
